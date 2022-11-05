@@ -1,3 +1,5 @@
 mljar-mercury
 mplfinance
 yfinance
+notebooks
+plotly
