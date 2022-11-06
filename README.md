@@ -2,7 +2,7 @@
 
 A toy repo for ETH SF! My first hackathon.
 
-Not a web3 developer but a data scientist interested in the space. Played around with the Dune API to query transaction data which was pretty cool.
+We are data scientists from Red Hat in Raleigh interested in the blockchain and web3 space. Played around with the Dune API to query transaction data which was pretty cool.
 
 Looking forward to learning more before the next one.
 
