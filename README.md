@@ -5,7 +5,9 @@ Not a web3 developer but a data scientist interested in the space. Played around
 
 Looking forward to learning more before the next one.
 
-Used some tutorials to build a dummy dashboard:
+Used some tutorials to build a dummy dashboard.
+
+Credit:
   https://towardsdatascience.com/creating-interactive-jupyter-notebooks-and-deployment-on-heroku-using-voila-aa1c115981ca
   https://mljar.com/blog/dashboard-python-jupyter-notebook/
 
